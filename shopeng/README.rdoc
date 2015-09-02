@@ -1,3 +1,7 @@
 = Shopeng
 
+This project is an experiment in building a commerce engine.
+
+It's just like a normal commerce engine except the main organizational difference will be browsing items by their regions and creators rather than their categories.
+
 This project rocks and uses MIT-LICENSE.
